@@ -3,7 +3,8 @@ class Assets {
   Assets._();
 
   static const String imagesFlutterLogo = 'assets/images/flutter_logo.png';
-  static const String imagesSpalshScreenFill = 'assets/images/spalsh_screen_fill.png';
+  static const String imagesOnBoarding1 = 'assets/images/onBoarding1.png';
+  static const String imagesSpalshScreenFill =
+      'assets/images/spalsh_screen_fill.png';
   static const String imagesSpangy = 'assets/images/Spangy.png';
-
 }

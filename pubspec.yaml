@@ -35,6 +35,12 @@ flutter:
   # Enable generation of localized Strings from arb files.
   generate: true
 
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto_Bold.ttf
+  #        - asset: assets/fonts/Roboto_Regular.ttf
+
   assets:
     # Add assets from the images directory to the application.
     - assets/images/
